@@ -1,8 +1,9 @@
 # cubarestapi
 A lightweight package for using [Cuba`s REST-API](https://doc.cuba-platform.com/restapi-7.1/).
 
+! Still raw (development in progress)
+
 <a href="https://github.com/Deep27/cubarestapi/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-APACHE2.0-blue.svg?longCache=true&style=flat-square"></a>
-   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Built%20for-Flutter-blue.svg?longCache=true&style=flat-square"></a>
 
 ## Get started
 ### Add dependency
@@ -13,6 +14,8 @@ dependencies:
 
 ### Initialize Hive
 Initialize Hive before using `cubarestapi` by calling asynchronous method:
+
+(if you use it in flutter [hive_flutter](https://pub.dev/packages/hive_flutter))
 ```dart
 Hive.initFlutter(); // `package:hive_flutter/hive_flutter.dart`
 ```
