@@ -1,5 +1,5 @@
 # cubarestapi
-A lightweight package for using [CUBA REST-API](https://doc.cuba-platform.com/restapi-7.1/).
+A lightweight package for using [Cuba`s REST-API](https://doc.cuba-platform.com/restapi-7.1/).
 
 <a href="https://github.com/Deep27/cubarestapi/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-APACHE2.0-blue.svg?longCache=true&style=flat-square"></a>
    <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Built%20for-Flutter-blue.svg?longCache=true&style=flat-square"></a>
@@ -57,5 +57,6 @@ void getPersons({String view, int limit, int offset, String sort}) {
 ```
 
 ## Copyright & License
-This opensource project authorized by [Sberbank Technology](https://sber-tech.com/), and the license is 
+This opensource project authorized by [Sberbank Technology](https://sber-tech.com/), and the license is [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
 Author - [Roman Sotnichenko](https://github.com/Deep27/)
