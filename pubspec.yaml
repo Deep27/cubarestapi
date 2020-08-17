@@ -1,8 +1,8 @@
 name: cubarestapi
-description: A new flutter plugin project.
+description: A new flutter plugin for simplier interaction with Cuba's REST API.
 version: 0.0.1
-author:
-homepage:
+author: Sberbank Technology (Roman Sotnichenko)
+homepage: https://sber-tech.com
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
