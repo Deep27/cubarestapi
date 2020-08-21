@@ -9,7 +9,7 @@ A lightweight package for using [Cuba`s REST-API](https://doc.cuba-platform.com/
 ### Add dependency
 ```yaml
 dependencies:
-  cubarestapi: ^0.0.1
+  cubarestapi: ^0.0.3
 ```
 
 ### Initialize Hive
